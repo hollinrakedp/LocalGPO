@@ -1,0 +1,4 @@
+This script requires the LGPO.exe utility. Place the utility in a location where it can be found by the 'Path' variable or use the -LGPO parameter to provide the location.
+
+Download Link
+https://www.microsoft.com/en-us/download/details.aspx?id=55319

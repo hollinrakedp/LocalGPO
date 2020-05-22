@@ -1,0 +1,4 @@
+This script is meant to import the DISA STIG GPOs. The STIG GPO package needs to be downloaded seperately and extracted to a location
+
+Download Link
+https://public.cyber.mil/stigs/gpo/
