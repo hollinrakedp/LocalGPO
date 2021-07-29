@@ -8,11 +8,11 @@ function Import-LocalSTIGGPO {
 
                 
     .NOTES
-        Name         - Import-LocalSTIGGPO
-        Version      - 0.1
-        Author       - Darren Hollinrake
-        Date Created - 2020-05-25
-        Date Updated - 
+    Name         - Import-LocalSTIGGPO
+    Version      - 0.1
+    Author       - Darren Hollinrake
+    Date Created - 2020-05-25
+    Date Updated - 
 
     Requirements
     --------------
